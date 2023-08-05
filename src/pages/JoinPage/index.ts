@@ -1,1 +1,1 @@
-export {default} from './Joinpage';
+export {default} from './JoinPage';
